@@ -74,7 +74,7 @@ if(keyboard_check(vk_backspace) || keyboard_check(vk_escape))
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>
+            <string>///Intro Text
 draw_text_color(50,50,"Narrativa interactiva",c_white,c_white,c_white,c_white,1);
 draw_text_color(50,150,"Basada en la novela MXZ de Jesús Ramírez.",c_white,c_white,c_white,c_white,1);
 draw_text_color(50,200,"Música: jewelbeat.com (Chilling_Experience_full_mix_mp3)",c_white,c_white,c_white,c_white,1);
@@ -82,7 +82,7 @@ draw_text_color(50,250,"Sonído: freesound.org, (Woman Scream: Madera del este F
 draw_text_color(50,300,"Imágenes: GameMaker (yoyogames)",c_white,c_white,c_white,c_white,1);
 draw_text_color(50,350,"Texto: María Guadalupe Herrera y Héctor Guerrero",c_white,c_white,c_white,c_white,1);
 draw_text_color(50,400,"No videojuego para la Mermelada de juegos 2 del Centro de Cultura Digital.",c_white,c_white,c_white,c_white,1);
-draw_text_color(50,500,"Para salir presiona 'ESC', para continuar presiona 'ESPACIO'",c_white,c_white,c_white,c_white,1);
+draw_text_color(50,500,"Para iniciar presiona 'ESPACIO'. (Se recomienda el uso de audífonos)",c_white,c_white,c_white,c_white,1);
 
 </string>
           </argument>
